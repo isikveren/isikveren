@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>这里是洵梓。</p>
+<p>这里是未来会很光明的洵梓。</p>
 <a href = "https://liuxunzi.com" target="_blank">看看小屋子</a>
